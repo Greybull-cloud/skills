@@ -1,0 +1,10 @@
+{
+  "name": "greybull",
+  "description": "Publish websites you built with AI to Greybull: Dutch hosting, live on your own address in a few minutes.",
+  "author": {
+    "name": "Greybull",
+    "url": "https://greybull.cloud"
+  },
+  "homepage": "https://greybull.cloud/for/ai-builders",
+  "license": "MIT"
+}

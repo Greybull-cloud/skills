@@ -1,0 +1,15 @@
+{
+  "name": "greybull",
+  "description": "Greybull skills for AI coding assistants: publish the websites you build with AI.",
+  "owner": {
+    "name": "Greybull",
+    "url": "https://greybull.cloud"
+  },
+  "plugins": [
+    {
+      "name": "greybull",
+      "source": "./",
+      "description": "Publish websites you built with AI to Greybull: Dutch hosting, live on your own address in a few minutes."
+    }
+  ]
+}
